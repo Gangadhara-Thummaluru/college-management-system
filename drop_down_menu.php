@@ -56,7 +56,7 @@
 				</div>
 				
 				<!--ninth button-->
-				<div class="btn-group">
+				<!-- <div class="btn-group">
   					<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-globe"></span>
 
   					  Mess <span class="caret"></span>
@@ -65,5 +65,5 @@
   				  <li><a href="?tag=mess_entry">Mess Entry</a></li>
   				  <li><a href="?tag=view_mess">View Mess</a></li>
   				</ul>
-				</div>
+				</div> -->
                                
